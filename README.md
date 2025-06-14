@@ -12,12 +12,10 @@ Mark tasks as completed
 Delete tasks
 
 Save/load tasks using a file
+-----------------------------------------------------------------------------------------------------------------------------------------
 
-todo_app/
-│
-├── main.py              # Runs the app (user interface)
-├── task_manager.py      # Task logic (add, update, delete, list)
-├── storage.py           # Load/save tasks to a file
-├── data/
-│   └── tasks.json       # Where tasks are stored
-└── README.md            # Project instructions
+
+
+![Screenshot 2025-06-14 070745](https://github.com/user-attachments/assets/933ad92b-e477-47a4-865f-fa894a848990)
+
+
